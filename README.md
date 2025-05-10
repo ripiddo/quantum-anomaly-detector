@@ -68,17 +68,52 @@ For more details, see the [technical documentation](doc/technical_details.md).
 
 ```
 quantum-anomaly-detector/
-├── main.py               # Main application entry point
-├── README.md             # This file
-├── doc/                  # Documentation
-│   └── technical_details.md
-├── images/               # Images for documentation
-├── report/               # Analysis reports
-│   └── anomaly_detector_summary.pdf
-└── src/                  # Source code
-    └── quantum/          # Quantum computing components
-        └── base_anomaly_detector.py
+├── src/                    # Source code
+│   └── quantum/           # Quantum computing components
+├── docs/                  # Documentation
+│   ├── api/              # API documentation
+│   ├── guides/           # User and technical guides
+│   ├── examples/         # Example code and notebooks
+│   └── research/         # Research notes, plans and summaries
+├── data/                 # Data directory
+│   ├── experiments/      # Experimental results
+│   └── visualizations/   # Generated visualizations
+├── tests/                # Test suite
+└── main.py              # Main application entry point
 ```
+
+For development and research plans, see our [Exploration Plan](docs/research/exploration_plan.md).
+
+## Research Collaboration
+
+Are you working on:
+- Quantum Computing
+- Anomaly Detection
+- Security Monitoring
+- Quantum-Classical Integration
+- Quantum Machine Learning
+
+We're actively seeking collaborators! This project explores the intersection of quantum computing and security monitoring, and we welcome contributions from researchers, developers, and enthusiasts.
+
+### Areas of Interest
+- Novel quantum anomaly detection algorithms
+- Multi-qubit system implementations
+- Real-world applications and use cases
+- Performance optimization techniques
+- Integration with classical security tools
+
+### Getting Started with Collaboration
+1. Check out our [PLANS.md](PLANS.md) for the technical roadmap
+2. Explore the [documentation](doc/) for technical details
+3. Look for "help wanted" issues in our tracker
+4. Join our research discussions
+
+### Contact
+If you're working on similar topics or interested in collaboration, reach out:
+- 📧 Email: [Your Email]
+- 🔬 Research Gate: [Your Profile]
+- 🎓 Google Scholar: [Your Profile]
+- 🐱 GitHub Discussions
 
 ## License
 
