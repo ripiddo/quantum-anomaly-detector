@@ -27,7 +27,7 @@ def create_anomalous_state():
         qc.ry(theta, 0)  # Rotation around Y axis
         qc.rz(phi, 0)    # Rotation around Z axis
         qc.rx(lam, 0)    # Rotation around X axis for additional variation
-        
+        # qc.draw()  # Draw the circuit for visualization
         print(f"Generated random anomaly with parameters: theta={theta:.4f}, phi={phi:.4f}, lambda={lam:.4f}")
     else:
         # Default deterministic anomaly
