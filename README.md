@@ -2,8 +2,6 @@
 
 A proof-of-concept implementation of quantum computing techniques for anomaly detection in complex systems.
 
-![Quantum Anomaly Detection](images/quantum_anomaly_banner.png)
-
 ## Overview
 
 The Quantum Anomaly Detector leverages quantum computing principles to identify deviations from expected system states. By analyzing quantum state entropy and fidelity metrics, the detector can identify anomalous behavior with varying degrees of severity.
