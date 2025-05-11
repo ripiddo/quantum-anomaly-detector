@@ -103,17 +103,15 @@ We're actively seeking collaborators! This project explores the intersection of 
 - Integration with classical security tools
 
 ### Getting Started with Collaboration
-1. Check out our [PLANS.md](PLANS.md) for the technical roadmap
+1. Check out our [Exploration Plan](docs/research/exploration_plan.md) for the technical roadmap
 2. Explore the [documentation](doc/) for technical details
 3. Look for "help wanted" issues in our tracker
 4. Join our research discussions
 
 ### Contact
 If you're working on similar topics or interested in collaboration, reach out:
-- 📧 Email: [Your Email]
-- 🔬 Research Gate: [Your Profile]
-- 🎓 Google Scholar: [Your Profile]
-- 🐱 GitHub Discussions
+- 📧 Email: sinan.tukek@gmail.com
+- 🐱 GitHub: [@ripiddo](https://github.com/ripiddo)
 
 ## License
 
