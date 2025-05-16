@@ -88,4 +88,6 @@ quantum-tension-anomaly/
 
 This project is inspired by the concept of **”structural tension”** and its use in anomaly detection. It reflects a deeper philosophical and systemic view of change, disruption, and pattern divergence in complex systems.
 
-For more information or collaboration, please reach out via LinkedIn or GitHub.
+For more information or collaboration, please reach out via:
+- 📧 Email: sinan.tukek@gmail.com
+- 🐱 GitHub: [@ripiddo](https://github.com/ripiddo).
